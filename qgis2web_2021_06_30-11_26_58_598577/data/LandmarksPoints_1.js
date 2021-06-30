@@ -1,0 +1,1 @@
+var json_LandmarksPoints_1 = {"type":"FeatureCollection","name":"LandmarksPoints_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Name":"Runway Wind Sock","Type":"Airport"},"geometry":{"type":"Point","coordinates":[-87.546431972538727,32.352534891691917]}}]}
